@@ -4,8 +4,8 @@ import Header from "../components/header"
 
 export default () => (
   <div>
-    <Link to="/contact/">Contact</Link>
-    <Header headerText="Index"/>
-    <p>Hello world!</p>
+    <Link to="/">Home</Link>
+    <Header headerText="Contact"/>
+    <p>send us a message!</p>
   </div>
 )
