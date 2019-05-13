@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{143:function(a){a.exports={pages:[{componentChunkName:"component---src-pages-index-js",jsonName:"index",path:"/"},{componentChunkName:"component---src-pages-contact-js",jsonName:"contact-26a",path:"/contact/"}],dataPaths:{"contact-26a":"279/path---contact-26-a-cd9-0SUcWyAf8ecbYDsMhQkEfPzV8","dev-404-page-5f9":"818/path---dev-404-page-5-f-9-fab-vfoBlmWr79gAXE6OVJGkl3zwUhI",index:"140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8"}}}}]);
+//# sourceMappingURL=pages-manifest-5140ee4eff0319829959.js.map
